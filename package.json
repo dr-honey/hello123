@@ -15,7 +15,7 @@
         "npm": "1.2.x"
     },
 	"subdomain":"hello123",
-	"scricts":{
+	"scripts":{
 		"start":"node app.js"
 	}
 	
