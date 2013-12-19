@@ -16,7 +16,7 @@
     },
 	"subdomain":"hello123",
 	"scricts":{
-		"start":"app.js"
+		"start":"node app.js"
 	}
 	
 }
