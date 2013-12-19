@@ -36,6 +36,6 @@ var fs = require('fs');
 	}
  });
 
-  server.listen(8000);
-  console.log('Listening on http://127.0.0.1:8000');  
+  server.listen(80);
+  console.log('Listening on port 80');  
 	
