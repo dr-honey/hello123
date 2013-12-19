@@ -10,6 +10,10 @@
         "mysql": "*",
 		"path": "*"
     },
+		"repository": {
+    "type": "git",
+    "url": "http://github.com/dr-honey/hello123.git"
+  },
     "engines": {
         "node": "0.10.16",
         "npm": "1.2.x"
